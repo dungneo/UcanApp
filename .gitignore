@@ -1,2 +1,4 @@
 # ignore bower_components
 Data
+bower.json
+request.txt
