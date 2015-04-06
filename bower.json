@@ -1,0 +1,26 @@
+{
+  "name": "UcanApp",
+  "version": "0.0.1",
+  "authors": [
+    "Dung Neo <dungneo@gmail.com>"
+  ],
+  "description": "Ucan App Polymer",
+  "keywords": [
+    "Ucan",
+    "App",
+    "Polymer"
+  ],
+  "license": "MIT",
+  "homepage": "http://dungneo.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-elements": "Polymer/core-elements#~0.5.5",
+    "paper-elements": "Polymer/paper-elements#~0.5.5"
+  }
+}
